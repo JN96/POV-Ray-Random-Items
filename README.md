@@ -15,4 +15,4 @@ files:
 - random_items8K.png
 - random_items16K.png
 
-The code used to compile the scene is stored in random_items.pov
+The code used to compile the scene is stored in random_items.pov.
