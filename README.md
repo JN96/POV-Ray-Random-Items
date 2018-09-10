@@ -1,4 +1,4 @@
-# POV-Ray-Scenes
+# POV-Ray-Random-Items
 
 ## About
 This project was done for a computer graphics modules in 4th year of college. The POV-Ray ray tracing tool was used to construct the scenes. The completed scenes 
